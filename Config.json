@@ -1,0 +1,9 @@
+{
+    "FilePath"        : "C:/Users/YourUserName/.../認証ファイル.json" ,
+    "GmailAddress"    : "Calendarを共有したGmailAddress@gmail.com" ,
+    "TimeZone"        : -9 , 
+    "StartMin"        : 30 ,
+    "From"            : 0 ,
+    "Util"            : 7 ,
+    "Sep"             : "\\n" 
+}

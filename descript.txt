@@ -1,0 +1,16 @@
+Charset,UTF-8
+readme.charset,UTF-8
+readme.readme.md
+type,plugin
+name,ukagakaGoogleCalendar
+craftman,ambergon
+filename,main.dll
+
+id,6819f84f-e698-0f92-5df3-7b30bc07d84c
+
+
+secondchangeinterval,60
+otherghosttalk,before
+
+//更新url
+//homeurl,
